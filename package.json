@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vuejs/vue-loader-ie8.git"
+    "url": "https://github.com/idujiayou/vue-loader-ie8.git"
   },
   "keywords": [
     "vue",
