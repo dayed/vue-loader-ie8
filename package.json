@@ -19,9 +19,9 @@
   "author": "Sjoerd Visscher",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vuejs/vue-loader-ie8/issues"
+    "url": "https://github.com/idujiayou/vue-loader-ie8/issues"
   },
-  "homepage": "https://github.com/vuejs/vue-loader-ie8",
+  "homepage": "https://github.com/idujiayou/vue-loader-ie8",
   "scripts": {
     "lint": "eslint lib",
     "test": "eslint lib && mocha test/test.js --slow 5000 --timeout 10000",
